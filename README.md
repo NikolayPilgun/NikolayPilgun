@@ -22,9 +22,9 @@
 ### Контакты.
 
 <div align="center">
-<a href="https://t.me/NikolayPilgun" target="_blank" ><img style="margin: 10px" src="https://img.shields.io/badge/Telegram-4B99D1?style=for-the-badge&logo=telegram&logoColor=FFA500" alt="Telegram" height="50"/></a>
-<a href="https://vk.com/nikolaypilgun" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/ВКонтакте-0000FF?style=for-the-badge&logo=vk&logoColor=FFA500" alt="ВКонтакте" height="50"/></a>
-<a href="mailto:a03198814s@gmail.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/gmail-4B99D1?style=for-the-badge&logo=gmail&logoColor=FFA500" alt="ВКонтакте" height="50"/></a>
+<a href="https://t.me/NikolayPilgun" target="_blank" ><img style="margin: 20px" src="https://img.shields.io/badge/Telegram-4B99D1?style=for-the-badge&logo=telegram&logoColor=FFA500" alt="Telegram" height="50"/></a>
+<a href="https://vk.com/nikolaypilgun" target="_blank"><img style="margin: 20px" src="https://img.shields.io/badge/ВКонтакте-0000FF?style=for-the-badge&logo=vk&logoColor=FFA500" alt="ВКонтакте" height="50"/></a>
+<a href="mailto:a03198814s@gmail.com" target="_blank"><img style="margin: 20px" src="https://img.shields.io/badge/gmail-4B99D1?style=for-the-badge&logo=gmail&logoColor=FFA500" alt="ВКонтакте" height="50"/></a>
 </div>
 
 <br/>
